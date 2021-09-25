@@ -1,4 +1,4 @@
-# capacitor-firebase-plugin-demo
+# capacitor-firebase-plugin-demo (Clone repo)
 
 ⚡️ Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins. (Just clone repo for test)
 
